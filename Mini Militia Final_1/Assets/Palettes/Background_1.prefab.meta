@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Mini Militia Final_1/Assets/player/Grid.prefab.meta
 guid: 991585fdbbadde2459fda9cb6085d1d4
 =======
 guid: 74e1186a770f754468aa3c0a0bbafb47
 >>>>>>> parent of 980e979... //:Mini Militia Final_1/Assets/Palettes/Background_1.prefab.meta
+=======
+guid: 74e1186a770f754468aa3c0a0bbafb47
+>>>>>>> parent of e612abd... Revert "Merge branch 'master' of https://github.com/mariamkarray/MiniMilitia"
 PrefabImporter:
   externalObjects: {}
   userData: 
