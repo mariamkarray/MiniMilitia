@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &95870989
 GameObject:
   m_ObjectHideFlags: 0
@@ -514,6 +515,8 @@ MonoBehaviour:
   fire: Fire1
 --- !u!1 &466356964
 =======
+=======
+>>>>>>> parent of 6c2979e... Background of Scene_1 & Scene_2.
 --- !u!1 &241877140
 >>>>>>> parent of 6c2979e... Background of Scene_1 & Scene_2.
 GameObject:
@@ -583,6 +586,9 @@ Transform:
 =======
   - {fileID: 345982593}
   - {fileID: 412571530}
+<<<<<<< HEAD
+>>>>>>> parent of 6c2979e... Background of Scene_1 & Scene_2.
+=======
 >>>>>>> parent of 6c2979e... Background of Scene_1 & Scene_2.
   m_Father: {fileID: 0}
   m_RootOrder: 6
@@ -5417,6 +5423,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &894287928 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6817343394570393475, guid: 461767f0a0c988845a97834341cc23be,
@@ -6029,5 +6036,7 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 5021539443340125260, guid: 461767f0a0c988845a97834341cc23be, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 461767f0a0c988845a97834341cc23be, type: 3}
+=======
+>>>>>>> parent of 6c2979e... Background of Scene_1 & Scene_2.
 =======
 >>>>>>> parent of 6c2979e... Background of Scene_1 & Scene_2.
